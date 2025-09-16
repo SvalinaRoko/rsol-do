@@ -22,5 +22,6 @@
     <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18]">
        <h1>Welcome to Rosl's space!</h1>
        <p>Enjoy</p>
+       <p>I love Nera</p>
     </body>
 </html>
